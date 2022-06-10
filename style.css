@@ -1,0 +1,75 @@
+body{
+  background-color: #330033;
+}
+
+
+/* the navbar styling*/
+.navbar{
+  background-color: #660033;
+  padding-top: 10px;
+}
+.navbar img{
+  margin-left: 15px;
+}
+span{
+  color: #fff;
+  font-family: Nanum Gothic;
+  font-size: 17px;
+}
+
+/* the list styling*/
+.navbar-nav{
+  justify-content: space-between;
+  padding: 10px 70px;
+  margin-right: 32%;
+  justify-content: space-between;
+}
+.navbar-link{
+  margin-top: 10%;
+}
+.btn{
+  border-radius: 30px;
+  background-color: #f9004d;
+  color: white;
+  float: right;
+  text-decoration: none;
+  font-weight: bold;
+  transition: transform .2s;
+}
+.btn:hover{
+  transform: scale(1.2);
+}
+
+.col-sm{
+  margin-top: 10%;
+}
+.col-sm h5{
+  margin-top: 5em;
+  font-size: 25px;
+  font-family: sans-serif;
+  color: #fff;
+}
+.col-sm p{
+  font-size: 14px;
+  font-family: Courier New;
+  font-weight: bold;
+  color: #fff;
+}
+.col-sm img{
+  height: 450px;
+  background-repeat: repeat;
+  margin-left: 10px;
+}
+.btn-bn{
+  border-radius: 30px;
+  background-color: #f9004d;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: transform .4s;
+  float: left;
+}
+
+.btn-bn:hover{
+  transform: scale(1.2);
+}
