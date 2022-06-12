@@ -1,9 +1,13 @@
-body{
-  background-color: #330033;
-}
+
 
 
 /* the navbar styling*/
+
+
+#first-sec{
+  background: rgb(119,152,31);
+background: linear-gradient(90deg, rgba(119,152,31,1) 0%, rgba(8,108,95,0.5634628851540616) 52%);
+}
 .navbar{
   background-color: #660033;
   padding-top: 10px;
@@ -74,4 +78,20 @@ span{
 
 .btn-bn:hover{
   transform: scale(1.2);
+}
+
+/* second section*/
+
+.aboutt{
+  text-align: center;
+
+  font-size: 29px;
+  font-family: sans-serif;
+  font-weight:bolder;
+
+}
+
+#About-section{
+  background: rgb(174,184,51);
+background: linear-gradient(90deg, rgba(174,184,51,0.4766281512605042) 0%, rgba(139,55,149,0.5634628851540616) 52%);
 }
