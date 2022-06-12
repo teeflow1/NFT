@@ -54,11 +54,13 @@ span{
   font-family: Courier New;
   font-weight: bold;
   color: #fff;
+  padding-top: 8px;
 }
 .col-sm img{
   height: 450px;
+  width: 350px;
   background-repeat: repeat;
-  margin-left: 10px;
+  margin-left: 19px;
 }
 .btn-bn{
   border-radius: 30px;
